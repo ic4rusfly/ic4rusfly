@@ -1,60 +1,57 @@
-🚀 IC4RUS
-Developer • Geospatial Tech • System Builder
-+ Building tools that merge real-world precision with digital intelligence.
-+ Obsessed with maps, data, clean code, automation, and elegant systems.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F0FF&center=true&vCenter=true&width=600&lines=🔥+IC4RUS+🔥;Cyberpunk+Developer;Geospatial+Tech+Engineer;System+Builder+%7C+IoT+%7C+AI" />
+</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/7bJX9yF.gif" width="70%">
+</p>
+
+<p align="center">
+  <strong><span style="color:#0ff;">Crafting systems with neon precision.</span></strong><br>
+  <strong><span style="color:#f0f;">Merging reality, data, and automation.</span></strong>
+</p>
+
+---
+
+## ⚡ Neon About Me
+
+- 🛰 <span style="color:#00eaff;">GIS + IoT + Smart Geospatial Systems</span>  
+- 💻 <span style="color:#ff00ff;">Full-stack creator — PHP, Laravel, JS, React, Flutter</span>  
+- 🌍 <span style="color:#00ff9d;">Geospatial mapping + real-time urban intelligence</span>  
+- 🤖 <span style="color:#f0f;">Automation • AI workflows • system optimization</span>  
+- 🎯 <span style="color:#0ff;">Goal: Smart cities powered by clean code + strong data</span>  
+
+---
+
+## 🛠 Neon Tech Arsenal
+
+| **Category** | **Stack** |
+|-------------|-----------|
+| 🟣 **Frontend** | React • Tailwind • Leaflet.js • Flutter |
+| 🔵 **Backend** | PHP • Laravel • MySQL • REST APIs |
+| 🌐 **Mapping** | GeoJSON • PostGIS • Projections • OGC WMS/WFS |
+| 🟩 **Tools** | Git • Linux • Docker • VS Code |
+| 🟡 **Other** | IoT • RFID • Automation Systems |
+
+---
+
+## 🌌 Neon GitHub Stats
 
 <div align="center">
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ic4rus&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic4rus&layout=compact&theme=tokyonight" />
 </div>
-🔥 About Me
 
-🛰 Passionate about GIS, IoT, and smart geospatial systems
+---
 
-💻 Love crafting full-stack apps with PHP, Laravel, JS, React, Flutter
+## 🔮 Cyber Mission Protocol
 
-🌍 Experience in geomatics, mapping, and real-time data workflows
-
-⚡ Building tools that solve real-world problems with clean design
-
-🤖 Always experimenting with optimization, automation, and AI
-
-🎯 Main focus: Smart systems for real cities, real people.
-
-🛠 Tech Arsenal
-<div align="center">
-Category	Stack
-Frontend	React • Tailwind • Leaflet.js • Flutter
-Backend	PHP • Laravel • REST APIs • MySQL
-Mapping	GeoJSON • PostGIS • OGC WMS/WFS • Projections
-Dev Tools	Git • Linux • Docker • VS Code
-Other	IoT • RFID • Automation Systems
-</div>
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ic4rus&show_icons=true&theme=radical" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic4rus&layout=compact&theme=radical" /> </div>
-⚡ Current Mission
-name: "IC4RUS System Overhaul"
-status: "In progress"
-tasks:
-  - Build smarter geospatial platforms
-  - Combine IoT + GIS into living city dashboards
-  - Create clean, fast, documented codebases
-  - Design minimalistic dark UI/UX layouts
-
-🧩 What I’m Working On
-
-🔧 Smart Street Parking System (IoT + RFID + GIS)
-
-🗺️ Next-level Leaflet interactive mapping
-
-🏗 Laravel dashboards + admin systems
-
-📡 Real-time data pipelines for sensors
-
-📫 Reach Me ? paypal me lol
-
-🐍 Always building. Always learning.
-
-🐉 "Fall seven times, rise eight."
-
-Every project is a new evolution.
-Welcome to my forge.
+```yaml
+mission: "IC4RUS SYSTEM OVERDRIVE"
+status: "ACTIVE"
+objectives:
+  - Deploy smart geospatial platforms
+  - Fuse IoT + GIS into reactive city dashboards
+  - Build clean, minimalistic, high-performance systems
+  - Enhance UI/UX with neon dark themes
+  - Automate everything that can be automated
