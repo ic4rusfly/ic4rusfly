@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong><span style="color:#0ff;">Crafting systems with neon precision.</span></strong><br>
+  <strong><span style="color:#0ff;">Crafting systems with precision.</span></strong><br>
   <strong><span style="color:#f0f;">Merging reality, data, and automation.</span></strong>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Neon Tech Arsenal
+## 🛠 Tech Arsenal
 
 | **Category** | **Stack** |
 |-------------|-----------|
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌌 Neon GitHub Stats
+## 🌌 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ic4rus&show_icons=true&theme=tokyonight" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔮 Cyber Mission Protocol
+## 🔮  Mission Protocol
 
 ```yaml
 mission: "IC4RUS SYSTEM OVERDRIVE"
@@ -55,3 +55,21 @@ objectives:
   - Build clean, minimalistic, high-performance systems
   - Enhance UI/UX with neon dark themes
   - Automate everything that can be automated
+```
+💾 Current Projects
+
+🔧 Smart Street Parking System (IoT + RFID + GIS)
+🗺 Advanced Leaflet Geospatial Platform
+🏗 Laravel Admin & Partner Dashboard System
+📡 Real-time sensor streaming pipeline (IoT → API → UI)
+🛣 Routing engine using GeoJSON, centroids & spatial logic
+
+🌐 Network Access
+
+🔗 GitHub: ic4rus
+💸 PayPal: Ask me lol
+🛰 Status: Online — receiving encrypted packets
+⚡ Mindset: Always building. Always improving.
+🧬 Core: Running on caffeine, logic, and neon energy.
+
+<p align="center"> <img src="https://i.imgur.com/HhC1q8h.gif" width="70%"> </p> <h2 align="center">🐉 “Fall seven times, rise eight.”</h2> <p align="center"> Every line of code is a new evolution.<br> <strong>Welcome to the Neon Forge.</strong> </p> ```
