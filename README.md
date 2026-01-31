@@ -69,4 +69,4 @@ objectives:
 ⚡ Mindset: Always building. Always improving.
 🧬 Core: Running on caffeine, logic, and neon energy.
 
-<p align="center"> <img src="https://i.imgur.com/HhC1q8h.gif" width="70%"> </p> <h2 align="center">🐉 “Fall seven times, rise eight.”</h2> <p align="center"> Every line of code is a new evolution.<br> <strong>Welcome to the Neon Forge.</strong> </p> ```
+<h2 align="center">🐉 “Fall seven times, rise eight.”</h2> <p align="center"> Every line of code is a new evolution.<br> <strong>Welcome to the Neon Forge.</strong> </p> ```
