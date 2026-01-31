@@ -1,10 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F0FF&center=true&vCenter=true&width=600&lines=🔥+IC4RUS+🔥;Cyberpunk+Developer;Geospatial+Tech+Engineer;System+Builder+%7C+IoT+%7C+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F0FF&center=true&vCenter=true&width=600&lines=🔥+IC4RUS+🔥;Geospatial+Tech+Engineer;System+Builder+%7C+IoT+%7C+AI" />
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/7bJX9yF.gif" width="70%">
-</p>
 
 <p align="center">
   <strong><span style="color:#0ff;">Crafting systems with precision.</span></strong><br>
