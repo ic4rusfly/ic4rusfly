@@ -55,7 +55,6 @@ objectives:
 
 🗺 Advanced Leaflet Geospatial Platform
 🏗 Laravel Admin & Partner Dashboard System
-📡 Real-time sensor streaming pipeline (IoT → API → UI)
 🛣 Routing engine using GeoJSON, centroids & spatial logic
 
 🌐 Network Access
