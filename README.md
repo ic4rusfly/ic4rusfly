@@ -12,11 +12,10 @@
 
 ## ⚡ Neon About Me
 
-- 🛰 <span style="color:#00eaff;">GIS + IoT + Smart Geospatial Systems</span>  
+- 🛰 <span style="color:#00eaff;">GIS + Smart Geospatial Systems</span>  
 - 💻 <span style="color:#ff00ff;">Full-stack creator — PHP, Laravel, JS, React, Flutter</span>  
 - 🌍 <span style="color:#00ff9d;">Geospatial mapping + real-time urban intelligence</span>  
 - 🤖 <span style="color:#f0f;">Automation • AI workflows • system optimization</span>  
-- 🎯 <span style="color:#0ff;">Goal: Smart cities powered by clean code + strong data</span>  
 
 ---
 
@@ -28,7 +27,6 @@
 | 🔵 **Backend** | PHP • Laravel • MySQL • REST APIs |
 | 🌐 **Mapping** | GeoJSON • PostGIS • Projections • OGC WMS/WFS |
 | 🟩 **Tools** | Git • Linux • Docker • VS Code |
-| 🟡 **Other** | IoT • RFID • Automation Systems |
 
 ---
 
@@ -48,14 +46,13 @@ mission: "IC4RUS SYSTEM OVERDRIVE"
 status: "ACTIVE"
 objectives:
   - Deploy smart geospatial platforms
-  - Fuse IoT + GIS into reactive city dashboards
+  - Fuse + GIS into reactive city dashboards
   - Build clean, minimalistic, high-performance systems
   - Enhance UI/UX with neon dark themes
   - Automate everything that can be automated
 ```
 💾 Current Projects
 
-🔧 Smart Street Parking System (IoT + RFID + GIS)
 🗺 Advanced Leaflet Geospatial Platform
 🏗 Laravel Admin & Partner Dashboard System
 📡 Real-time sensor streaming pipeline (IoT → API → UI)
